@@ -1,0 +1,21 @@
+#app{
+  height: 100%;
+}
+
+.mx-lg-6 {
+  margin-right: 4rem !important;
+  margin-left: 4rem !important;
+}
+.navbar-light .navbar-toggler{
+  border: none;
+  border-color: #FFFFFF;
+}
+
+@media (max-width: 768px) {
+.mx-sm-0  {
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+}
+
+
+}
