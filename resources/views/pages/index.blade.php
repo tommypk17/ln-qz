@@ -30,7 +30,7 @@
                 </script>
             @endif
             <h1 class="text-center">Ln-Qz</h1>
-            <p class="text-center">"Unleash your inner linqz, TODAY"</p>
+            <p class="text-center">"Unleash your inner linqz - TODAY"</p>
         </article>
     </section>
     <section class="row">
